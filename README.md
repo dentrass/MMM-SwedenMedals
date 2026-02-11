@@ -8,7 +8,7 @@ It shows the number of Swedish medals won and medalists.
 ![MMM-SwedenMedals](https://github.com/user-attachments/assets/56813db3-48bc-455c-af3a-9159c6f9f990)
 
 **Add to config**
-{
-  module: "MMM-SwedenMedals",
-  position: "top_right",
-}
+<br>{
+  <br>module: "MMM-SwedenMedals",
+  <br>position: "top_right",
+<br>}
