@@ -1,0 +1,4 @@
+{
+  module: "MMM-SwedenMedals",
+  position: "top_right",
+}
